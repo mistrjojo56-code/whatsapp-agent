@@ -1,0 +1,5 @@
+{
+  "name": "whatsapp-claude-agent",
+  "version": "1.0.0",
+  "description": "وسيط يربط واتساب بـ Claude AI للرد التلقائي الاحترافي (نسخة Vercel)"
+}
